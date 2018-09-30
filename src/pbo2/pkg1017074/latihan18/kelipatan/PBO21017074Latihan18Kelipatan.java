@@ -7,7 +7,12 @@ package pbo2.pkg1017074.latihan18.kelipatan;
 
 /**
  *
- * @author Rizki Adam Kurniawan
+ * @author 
+ * NAMA : Brigita Julia Puspita Nai Goncalves
+ * KELAS: PBO-2
+ * NIM  : 10117074
+ * Deskripsi Program : Program ini berisi program perulangan yang menampilkan 
+ * kelipatan angka 3.5 secara ascending
  */
 public class PBO21017074Latihan18Kelipatan {
 
@@ -16,7 +21,6 @@ public class PBO21017074Latihan18Kelipatan {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("For Ascending");
         for (double i = 3.5; i <= 35; i += 3.5){
             System.out.println(i);
     }
